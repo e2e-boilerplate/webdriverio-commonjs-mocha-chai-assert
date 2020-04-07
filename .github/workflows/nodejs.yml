@@ -1,4 +1,4 @@
-name: webdriverio-commonjs-mocha-chai-expect
+name: webdriverio-commonjs-mocha-chai-assert
 'on':
   push: null
   schedule:
